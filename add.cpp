@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
-    //declaración y lectura
+    //lectura
 	int a, b, c; cin >> a >> b;
-	//impresión de la suma
+	//impresion
 	cout << a + b << "\n";
 }
